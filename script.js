@@ -23,20 +23,3 @@ const lieuAges = (currentYear, birthYear) => currentYear - birthYear;
 console.log(lieuAges(2023, 1999));
 
 // #### Part 3
-
-// function catAge(years) {
-//     let catYears = 0
-// ​
-//     if(years === 1) {
-//         return 15
-//     }
-//     if(years === 2) {
-//         return 25
-//     }
-// ​
-//     catYears = (years - 2) * 4 + 25
-// ​
-//     return catYears
-// }
-// ​
-// console.log(catAge(3))
