@@ -40,11 +40,17 @@ const introFriend = () => {
 };
 introFriend();
 
-// #### Challenge Yourself
-// #### Part 1
-// function studentsGrade() {
+// // #### Challenge Yourself
+// const studentsGrade = grade =>{
+//     if(grade >= 5){
+//         return true;
+//     } else{
+//         let grade = 8
+//         return "Excellent";
+//     }
+
 //   let grade = 5;
-//   if (score >= 5) {
+//   if (score >= 6) {
 //     grade = "true";
 //   } else if (score > 8) {
 //     grade = "Excellent";
@@ -53,4 +59,4 @@ introFriend();
 //   }
 //   return grade;
 // }
-// console.log(studentsGrade());
+// console.log(studentsGrade()
